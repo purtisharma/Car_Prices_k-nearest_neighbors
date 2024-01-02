@@ -5,4 +5,4 @@ Predict the market price of cars based on technical attributes using k-nearest n
 
 **Data Links:**
 - [Dataset Information](https://archive.ics.uci.edu/dataset/10/automobile)
-- [Download Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)
+- [Download Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)
